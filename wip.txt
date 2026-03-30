@@ -1,0 +1,2 @@
+wip는 work in progress로 작업 중 파일이란 뜻임
+developer2 branch에서 작업중 -> 작업 완료
